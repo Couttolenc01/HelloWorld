@@ -1,0 +1,17 @@
+{
+  "name": "helloworldst",
+  "version": "1.0.0",
+  "description": "Despliegue de Hello World en Azure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No test specified'",
+    "build": "echo 'No build step required for this Node.js app'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Azure",
+    "Node"
+  ],
+  "author": "FCO",
+  "license": "ISC"
+}
